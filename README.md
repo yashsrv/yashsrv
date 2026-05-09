@@ -2,7 +2,7 @@
 
 BTech Mech @ NSUT · Building on the internet since 2020
 
-Backend & DevOps · Open-source contributor @ MIT App Inventor · Apps crossed 500K+ downloads
+Backend & DevOps · Open-source contributor @ [MIT App Inventor](https://github.com/mit-cml/appinventor-sources) · Apps crossed 500K+ downloads
 
 📧 yashteaches@gmail.com
 
