@@ -2,7 +2,7 @@
 
 BTech @ NSUT · Building on the internet since 2020
 
-Backend & DevOps · Open-source contributor @ [MIT App Inventor](https://github.com/mit-cml/appinventor-sources) · Apps crossed 500K+ downloads
+Backend & DevOps · Open-source contributor @ [MIT App Inventor](https://github.com/mit-cml/appinventor-sources/pulls?q=is%3Apr+author%3Ayashsrv+is%3Amerged) · Apps crossed 500K+ downloads
 
 📧 yashteaches@gmail.com
 
